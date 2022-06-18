@@ -6,7 +6,7 @@ A new Flutter project.
 Preview On My Sec Instagram @moodmud_project
 
 
-Sorry, it's not completely finished here, so you can modify it again.
+Sorry, it's not completely finished here And Not Perfect, so you can modify it again.
 
 
 ## Getting Started
